@@ -8,5 +8,5 @@ I am currently doing a game developer internship at Tekden Studio, where I’m w
 
   <p align="left">
       <a href="https://www.youtube.com/@IbrahimHattab-r5l">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src=""/></a>
 ### 🧰 Languages and Tools
