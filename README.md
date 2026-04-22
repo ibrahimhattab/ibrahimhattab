@@ -23,8 +23,14 @@ I am currently doing a game developer internship at Tekden Studio, where I’m w
     <img alt="instagram profile" title="Follow on Instagram" src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=B3314A"/>
   </a>
 </p>
+
+<p align="left">
+  <a href="...">...</a>
+</p>
+
 ---
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ### 🧰 Languages and Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
