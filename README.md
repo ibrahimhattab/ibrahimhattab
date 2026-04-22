@@ -9,4 +9,9 @@ I am currently doing a game developer internship at Tekden Studio, where I’m w
   <p align="left">
       <a href="https://www.youtube.com/@IbrahimHattab-r5l">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC7PS5PwsrK5vYXwv5hSnrpg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <a href="https://www.linkedin.com/in/ibrahim-alkhattab/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"
+    alt="LinkedIn"/>
+</a>
 ### 🧰 Languages and Tools
