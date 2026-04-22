@@ -24,9 +24,7 @@ I am currently doing a game developer internship at Tekden Studio, where I’m w
   </a>
 </p>
 
-<p align="left">
-  <a href="...">...</a>
-</p>
+---
 
 ### 🧰 Languages and Tools
 
