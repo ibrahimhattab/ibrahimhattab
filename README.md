@@ -26,3 +26,10 @@ I am currently doing a game developer internship at Tekden Studio, where I’m w
 ---
 
 ### 🧰 Languages and Tools
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unreal Engine 5](https://img.shields.io/badge/unrealengine5-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Perforce](https://img.shields.io/badge/perforce-%23000000.svg?style=for-the-badge&logo=perforce&logoColor=white)
+![Rider](https://img.shields.io/badge/rider-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
