@@ -7,22 +7,16 @@ I’m a third-year Computer Engineering student and a game developer focused on 
 I am currently doing a game developer internship at Tekden Studio, where I’m working mainly with Animation Blueprints, IK systems, and Control Rig to refine and integrate character animations into gameplay. I also enjoy combining all these systems into cohesive, responsive gameplay experiences.
 
   <p align="left">
-      <a href="https://www.youtube.com/@IbrahimHattab-r5l">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC7PS5PwsrK5vYXwv5hSnrpg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-   <p align="left">
-  <a href="https://www.linkedin.com/in/ibrahim-alkhattab/" target="_blank">
-    <img 
-      alt="linkedin profile"
-      title="Connect on LinkedIn"
-      src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.youtube.com/@IbrahimHattab-r5l">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC7PS5PwsrK5vYXwv5hSnrpg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
   </a>
-</p>
-    <p align="left">
+
+  <a href="https://www.linkedin.com/in/ibrahim-alkhattab/" target="_blank">
+    <img alt="linkedin profile" title="Connect on LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+
   <a href="https://www.instagram.com/ibrahim._.hattab/" target="_blank">
-    <img 
-      alt="instagram profile"
-      title="Follow on Instagram"
-      src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+    <img alt="instagram profile" title="Follow on Instagram" src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 ### 🧰 Languages and Tools
