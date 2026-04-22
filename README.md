@@ -14,4 +14,9 @@ I am currently doing a game developer internship at Tekden Studio, where I’m w
     src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"
     alt="LinkedIn"/>
 </a>
+    <a href="https://www.instagram.com/ibrahim._.hattab/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+    alt="Instagram"/>
+</a>
 ### 🧰 Languages and Tools
