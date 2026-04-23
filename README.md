@@ -35,3 +35,9 @@ My work mainly focuses on Animation Blueprints, IK systems, and Control Rig to r
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Perforce](https://img.shields.io/badge/perforce-%23000000.svg?style=for-the-badge&logo=perforce&logoColor=white)
 ![Rider](https://img.shields.io/badge/rider-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
+
+
+### 🎮 My Games
+<a href="https://emrenyus.itch.io/captured-soul"><img src="https://itch.io/embed/2619427" width="400"></a>
+<a href="https://ibrahimhattab.itch.io/etenin-pusulas"><img src="https://itch.io/embed/2619428" width="400"></a>
+<a href="https://omer-faruk-ekici.itch.io/techno-heart"><img src="https://itch.io/embed/2619429" width="400"></a>
