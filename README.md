@@ -43,19 +43,19 @@ My work mainly focuses on Animation Blueprints, IK systems, and Control Rig to r
   <tr>
     <td align="center">
       <a href="https://emrenyus.itch.io/captured-soul">
-        <img src="https://img.itch.zone/aW1nLzI2MTgwMDc4LnBuZw==/315x250%23c/Qg6ICy.png" width="250px"/><br />
+        <img src="https://img.itch.zone/aW1nLzI2MTgwMDc4LnBuZw==/315x250%23c/Qg6ICy.png" width="400px"/><br />
         <b>Captured Soul</b>
       </a>
     </td>
     <td align="center">
       <a href="https://ibrahimhattab.itch.io/etenin-pusulas">
-        <img src="https://img.itch.zone/aW1nLzE0MjY1ODk2LnBuZw==/315x250%23c/0R7Wp%2B.png" width="250px"/><br />
+        <img src="https://img.itch.zone/aW1nLzI0NDMyMDY2LnBuZw==/315x250%23c/BMx79G.png" width="400px"/><br />
         <b>Çete'nin Pusulası</b>
       </a>
     </td>
     <td align="center">
       <a href="https://omer-faruk-ekici.itch.io/techno-heart">
-        <img src="https://img.itch.zone/aW1nLzE2MTkyOTY5LnBuZw==/315x250%23c/8v8VqJ.png" width="250px"/><br />
+        <img src="https://img.itch.zone/aW1nLzIxNDc2NTM4LmpwZw==/315x250%23c/ICNV0B.jpg" width="400px"/><br />
         <b>Techno Heart</b>
       </a>
     </td>
