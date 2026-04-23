@@ -65,7 +65,7 @@ My work mainly focuses on Animation Blueprints, IK systems, and Control Rig to r
 
 ## 📺 Latest YouTube Videos
 
-| [![AI Tourism Guide](https://img.youtube.com/vi/HVEyJNmxM0o/maxresdefault.jpg)](https://www.youtube.com/watch?v=HVEyJNmxM0o) | [![Plane Simulator](https://img.youtube.com/vi/RuJOYDAL3dc/maxresdefault.jpg)](https://www.youtube.com/watch?v=RuJOYDAL3dc) | [![Obstacle Assault](https://img.youtube.com/vi/2YYt-Bqw6ss/maxresdefault.jpg)](https://www.youtube.com/watch?v=2YYt-Bqw6ss) |
+| [![Captured Soul | Mağara Jam 2025](https://i.ytimg.com/an_webp/8pu3L3U7TTQ/mqdefault_6s.webp?du=3000&sqp=CPSyqM8G&rs=AOn4CLAyMoUqIGw_ywrMyQfKSL_3MGdcKA)](https://www.youtube.com/watch?v=8pu3L3U7TTQ) | [![Plane Simulator](https://img.youtube.com/vi/RuJOYDAL3dc/maxresdefault.jpg)](https://www.youtube.com/watch?v=RuJOYDAL3dc) | [![Obstacle Assault](https://img.youtube.com/vi/2YYt-Bqw6ss/maxresdefault.jpg)](https://www.youtube.com/watch?v=2YYt-Bqw6ss) |
 | :---: | :---: | :---: |
 | **Captured Soul | Mağara Jam 2025** | **Çete'nin Pusulası | Madalyon Jam** | **Techno Heart | GOAT Jam 2** |
 | [![AI Tourism Guide](https://img.youtube.com/vi/HVEyJNmxM0o/maxresdefault.jpg)](https://www.youtube.com/watch?v=HVEyJNmxM0o) | [![Plane Simulator](https://img.youtube.com/vi/RuJOYDAL3dc/maxresdefault.jpg)](https://www.youtube.com/watch?v=RuJOYDAL3dc) | [![Obstacle Assault](https://img.youtube.com/vi/2YYt-Bqw6ss/maxresdefault.jpg)](https://www.youtube.com/watch?v=2YYt-Bqw6ss) |
