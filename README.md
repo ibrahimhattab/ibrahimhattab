@@ -64,10 +64,12 @@ My work mainly focuses on Animation Blueprints, IK systems, and Control Rig to r
 </table>
 
 📺 Latest YouTube Videos
-![Captured Soul | Mağara Jam 2025](https://www.youtube.com/watch?v=8pu3L3U7TTQ)
-![Çete'nin Pusulası | Madalyon Game Jam](https://www.youtube.com/watch?v=xU7tYy7l2mg)
-![Techno Heart | GOAT Game Jam 2](https://www.youtube.com/watch?v=sX1S_SdR1zk)
-![AI-Powered Tourism Guide | Kapadokya Hackathon 2025](https://www.youtube.com/watch?v=HVEyJNmxM0o)
-![Plane Simulator - Unreal Engine 5](https://www.youtube.com/watch?v=RuJOYDAL3dc)
-![Obstacle Assault | My First Unreal Engine 5 Project](https://www.youtube.com/watch?v=2YYt-Bqw6ss)
-<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>
+[![Captured Soul | Mağara Jam 2025](https://img.youtube.com/vi/8pu3L3U7TTQ/0.jpg)](https://www.youtube.com/watch?v=8pu3L3U7TTQ)
+[![Çete'nin Pusulası | Madalyon Game Jam](https://img.youtube.com/vi/xU7tYy7l2mg/0.jpg)](https://www.youtube.com/watch?v=xU7tYy7l2mg)
+[![Techno Heart | GOAT Game Jam 2](https://img.youtube.com/vi/sX1S_SdR1zk/0.jpg)](https://www.youtube.com/watch?v=sX1S_SdR1zk)
+[![AI-Powered Tourism Guide | Kapadokya Hackathon 2025](https://img.youtube.com/vi/HVEyJNmxM0o/0.jpg)](https://www.youtube.com/watch?v=HVEyJNmxM0o)
+[![Plane Simulator - Unreal Engine 5](https://img.youtube.com/vi/RuJOYDAL3dc/0.jpg)](https://www.youtube.com/watch?v=RuJOYDAL3dc)
+[![Obstacle Assault | My First Unreal Engine 5 Project](https://img.youtube.com/vi/2YYt-Bqw6ss/0.jpg)](https://www.youtube.com/watch?v=2YYt-Bqw6ss)
+<a href="https://www.youtube.com/@ibrahimhattab?sub_confirmation=1">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>
+</a>
