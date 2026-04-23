@@ -65,8 +65,6 @@ My work mainly focuses on Animation Blueprints, IK systems, and Control Rig to r
 
 ## 📺 Latest YouTube Videos
 
-📺 Latest YouTube Videos
-
 | | | |
 | :---: | :---: | :---: |
 | [![Captured Soul](https://i.ytimg.com/vi/8pu3L3U7TTQ/hqdefault.jpg)](https://www.youtube.com/watch?v=8pu3L3U7TTQ) | [![Çete'nin Pusulası](https://i.ytimg.com/vi/xU7tYy7l2mg/hqdefault.jpg)](https://www.youtube.com/watch?v=xU7tYy7l2mg) | [![Techno Heart](https://i.ytimg.com/vi/sX1S_SdR1zk/hqdefault.jpg)](https://www.youtube.com/watch?v=sX1S_SdR1zk) |
@@ -75,7 +73,7 @@ My work mainly focuses on Animation Blueprints, IK systems, and Control Rig to r
 | **AI Tourism Guide** | **Plane Simulator** | **Obstacle Assault** |
 
 <p align="left">
-  <a href="https://www.youtube.com/@ibrahimhattab?sub_confirmation=1">
+  <a href="https://www.youtube.com/@IbrahimHattab-t5l">
      <img alt="Subscribe" src="https://custom-icon-badges.demolab.com/badge/-SUBSCRIBE-red?style=for-the-badge&logo=video&logoColor=white"/>
   </a>
 </p>
