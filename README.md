@@ -37,7 +37,27 @@ My work mainly focuses on Animation Blueprints, IK systems, and Control Rig to r
 ![Rider](https://img.shields.io/badge/rider-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 
-### 🎮 My Games
-<a href="https://emrenyus.itch.io/captured-soul"><img src="https://itch.io/embed/2619427" width="400"></a>
-<a href="https://ibrahimhattab.itch.io/etenin-pusulas"><img src="https://itch.io/embed/2619428" width="400"></a>
-<a href="https://omer-faruk-ekici.itch.io/techno-heart"><img src="https://itch.io/embed/2619429" width="400"></a>
+### 🕹️ My Games
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://emrenyus.itch.io/captured-soul">
+        <img src="https://img.itch.zone/aW1nLzE2MTkyOTY3LnBuZw==/315x250%23c/Oq6E%2Fe.png" width="250px"/><br />
+        <b>Captured Soul</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://ibrahimhattab.itch.io/etenin-pusulas">
+        <img src="https://img.itch.zone/aW1nLzE0MjY1ODk2LnBuZw==/315x250%23c/0R7Wp%2B.png" width="250px"/><br />
+        <b>Çete'nin Pusulası</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://omer-faruk-ekici.itch.io/techno-heart">
+        <img src="https://img.itch.zone/aW1nLzE2MTkyOTY5LnBuZw==/315x250%23c/8v8VqJ.png" width="250px"/><br />
+        <b>Techno Heart</b>
+      </a>
+    </td>
+  </tr>
+</table>
