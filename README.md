@@ -36,6 +36,7 @@ My work mainly focuses on Animation Blueprints, IK systems, and Control Rig to r
 ![Perforce](https://img.shields.io/badge/perforce-%23000000.svg?style=for-the-badge&logo=perforce&logoColor=white)
 ![Rider](https://img.shields.io/badge/rider-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 
+---
 
 ### 🕹️ My Games
 
