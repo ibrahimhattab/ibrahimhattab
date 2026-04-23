@@ -62,3 +62,12 @@ My work mainly focuses on Animation Blueprints, IK systems, and Control Rig to r
     </td>
   </tr>
 </table>
+
+📺 Latest YouTube Videos
+![Captured Soul | Mağara Jam 2025](https://www.youtube.com/watch?v=8pu3L3U7TTQ)
+![Çete'nin Pusulası | Madalyon Game Jam](https://www.youtube.com/watch?v=xU7tYy7l2mg)
+![Techno Heart | GOAT Game Jam 2](https://www.youtube.com/watch?v=sX1S_SdR1zk)
+![AI-Powered Tourism Guide | Kapadokya Hackathon 2025](https://www.youtube.com/watch?v=HVEyJNmxM0o)
+![Plane Simulator - Unreal Engine 5](https://www.youtube.com/watch?v=RuJOYDAL3dc)
+![Obstacle Assault | My First Unreal Engine 5 Project](https://www.youtube.com/watch?v=2YYt-Bqw6ss)
+<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>
