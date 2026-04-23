@@ -43,7 +43,7 @@ My work mainly focuses on Animation Blueprints, IK systems, and Control Rig to r
   <tr>
     <td align="center">
       <a href="https://emrenyus.itch.io/captured-soul">
-        <img src="https://img.itch.zone/aW1nLzE2MTkyOTY3LnBuZw==/315x250%23c/Oq6E%2Fe.png" width="250px"/><br />
+        <img src="https://img.itch.zone/aW1nLzI2MTgwMDc4LnBuZw==/315x250%23c/Qg6ICy.png" width="250px"/><br />
         <b>Captured Soul</b>
       </a>
     </td>
