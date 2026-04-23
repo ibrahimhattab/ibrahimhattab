@@ -64,7 +64,7 @@ My work mainly focuses on Animation Blueprints, IK systems, and Control Rig to r
 </table>
 
 ## 📺 Latest YouTube Videos
-|
+
 | [![AI Tourism Guide](https://img.youtube.com/vi/HVEyJNmxM0o/maxresdefault.jpg)](https://www.youtube.com/watch?v=HVEyJNmxM0o) | [![Plane Simulator](https://img.youtube.com/vi/RuJOYDAL3dc/maxresdefault.jpg)](https://www.youtube.com/watch?v=RuJOYDAL3dc) | [![Obstacle Assault](https://img.youtube.com/vi/2YYt-Bqw6ss/maxresdefault.jpg)](https://www.youtube.com/watch?v=2YYt-Bqw6ss) |
 | :---: | :---: | :---: |
 | **Captured Soul | Mağara Jam 2025** | **Çete'nin Pusulası | Madalyon Jam** | **Techno Heart | GOAT Jam 2** |
